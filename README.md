@@ -1,4 +1,4 @@
-My (unofficial) notes from the book ggplot2 by data god Hadley Wickham
+My (unauthorized) notes from the book "ggplot2" by data god Hadley Wickham
 ========================================
 
 [Author's Website](http://had.co.nz/)
