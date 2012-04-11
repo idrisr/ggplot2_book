@@ -16,6 +16,10 @@ Further Resources:
 
 [Translating from Lattice to ggplot2](http://learnr.wordpress.com/)
 
+[Grammar of Graphics. The gg of ggplot2](http://www.amazon.com/The-Grammar-Graphics-Leland-Wilkinson/dp/0387987746)
+
+[Grammar of Graphics in javascript d3](http://polychart.com/)
+
 Chapters:
 ---------------------------
 <!--TODO-->
