@@ -5,6 +5,10 @@ My (unauthorized) notes from the book "ggplot2" by data god Hadley Wickham
 
 [On Amazon](http://www.amazon.com/ggplot2-Elegant-Graphics-Data-Analysis/dp/0387981403/ref=sr_1_1?ie=UTF8&qid=1334184667&sr=8-1)
 
+A book about elegant graphics deserves a much better cover
+
+<img src='https://s3.amazonaws.com/octoporess_blog/ggplot2_cover.png'
+height=300>
 
 Further Resources:
 -------------------
