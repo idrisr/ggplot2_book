@@ -22,6 +22,23 @@ Further Resources:
 
 Chapters:
 ---------------------------
-<!--TODO-->
 
+1. Introduction
 
+1. Getting started with qplot
+
+1. Mastering the grammar
+
+1. Build a plot layer by layer
+
+1. Toolbox
+
+1. Scales, axes, and legends
+
+1. Positioning
+
+1. Polishing your plots for publication
+
+1. Manipulating Data
+
+1. Reducing Duplication
